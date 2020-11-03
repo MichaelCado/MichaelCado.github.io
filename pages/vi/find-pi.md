@@ -50,10 +50,10 @@ C:\>ping treehouses.local -4
 
 
 Pinging treehouses.local [192.168.0.19] with 32 bytes of data:
-Reply from 192,168.0.19 bytes=32 time=7ms TTL=64
-Reply from 192,168.0.19 bytes=32 time=5ms TTL=64
-Reply from 192,168.0.19 bytes=32 time=5ms TTL=64
-Reply from 192,168.0.19 bytes=32 time=3ms TTL=64
+Reply from 192.168.0.19 bytes=32 time=7ms TTL=64
+Reply from 192.168.0.19 bytes=32 time=5ms TTL=64
+Reply from 192.168.0.19 bytes=32 time=5ms TTL=64
+Reply from 192.168.0.19 bytes=32 time=3ms TTL=64
 
 Ping Statistics for 192.168.0.19:
   Packets: Sent = 4, Recieved = 4, Lost = 0, (0% loss),
