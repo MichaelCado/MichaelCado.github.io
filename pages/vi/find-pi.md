@@ -27,7 +27,7 @@ The first ip address listed is your Pi's ip address.
   ping treehouses.local
   ```
   
-###### Expected Output simialar to this
+###### Expected Output similar to this
 ```
 $ ping treehouses.local
 PING treehouses.local (192.168.0.19): 56 data bytes
